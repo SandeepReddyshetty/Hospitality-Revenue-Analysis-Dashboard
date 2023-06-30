@@ -2,7 +2,7 @@
 
 🌟 Announcement! I'm thrilled to unveil my very first data visualization project! 📊✨
 
-🔎 𝐓𝐈𝐓𝐋𝐄: Unveiling Revenue Insights for AtliQ Grand - A Fascinating Data Journey 🏨
+🔎 𝐓𝐈𝐓𝐋𝐄: Hospitality Revenue Analysis Dashboard 🏨
 
 I'm excited to share a remarkable milestone in my data visualization journey. I recently completed an immersive project where I explored revenue insights for AtliQ Grand, an esteemed hospitality establishment. Let me take you on a fascinating data journey into their revenue analytics world!
 
